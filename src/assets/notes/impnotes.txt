@@ -1,0 +1,5 @@
++ to uninstall bootstarp from npm ++> (cmd) npm uninstall bootstrap --no-save(working)
+
+npm i bootstrap@4.6
+
+
